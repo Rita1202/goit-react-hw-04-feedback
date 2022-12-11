@@ -26,7 +26,7 @@ export const App = () => {
         break;
     }
 
-    this.countTotalFeedback();
+    countTotalFeedback();
   };
 
   const countPositiveFeedbackPercentage = () => {
